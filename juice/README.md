@@ -37,6 +37,8 @@ Insert a coin: 50
 Amount due: 50
 Insert a coin: 50
 Change Owed: 0
+## Markdown 
+![Juice Machine Preview](images/preview.png)
 
 ## Note
 If you want to stop the program before finishing your payment
@@ -55,7 +57,6 @@ This project is developed by(https://www.github.com/wanji-cloudk)
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ### Contributing:
-You are always welcome to contribute to this project and kindly submit a pull requst to any improment you've made,Your input can help make the gym management system even better for users.
+You are always welcome to contribute to this project and kindly submit a pull requst to any improment you've made,Your input can help make the juice machine project even better for users.
 
-### Conclusion:
-Gym Management System is a comprehensive tool designed to simplify gym operations by incorporating features that focused on class bookings, real-time updates, and waitlist management, it supports both gym members and administrators effectively
+
